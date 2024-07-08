@@ -1,6 +1,8 @@
-Here is @hugotosiri with a dog named mimi, a loyal Chinese feild dog.
+Here is @hugotosiri with mimi, a loyal Chinese field dog.
 Interested in AI, data minxing, text minging, and econometrics.
-Surviving my Ph.D. in IPE Thrust (Innovation, Policy, Entrepreneurship) @HKUST-GZ. I focus on corporate governance&finance&culture for innovation&sustainability.
+Surviving my Ph.D. in IPE Thrust (Innovation, Policy, Entrepreneurship) @HKUST-GZ. 
+
+I focus on corporate strategy/governance/finance/culture for innovation&sustainability.
 Building my old fashion skills, mainly stata, for perhaps meaningless statistical causal inferrence. 
 A laggard jumped in ML, Webscraping, Text Analysis in April 2024.
 
